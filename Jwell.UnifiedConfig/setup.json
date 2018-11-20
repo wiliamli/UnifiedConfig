@@ -1,0 +1,6 @@
+﻿{
+  "sign": "Jwell.UnifiedConfig.Web",
+  "version": "1.0.0.0",
+  "number": "9fb8fab4758d4627ac8fe0f19491d3dc",
+  "environment": "test" //test,qa,gray,product
+}
